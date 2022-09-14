@@ -36,3 +36,43 @@ img {
   max-width: 300px;
   overflow: hidden;
 }
+
+.header {
+  text-align: center;
+}
+
+.header-text {
+  margin-top: 20px;
+}
+
+.name {
+  font-size: 1.75rem;
+}
+
+.role {
+  font-size: 0.8rem;
+  color: #F3BF99;
+}
+
+.header-links {
+  font-size: 0.8rem;
+  margin: 20px;
+}
+
+.contact-link {
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 0px 10px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+#email-link {
+  background-color: white;
+  color: black;
+}
+
+#linkedin-link {
+  background-color: #5093E2;
+  color: white;
+}
