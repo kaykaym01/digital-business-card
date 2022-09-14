@@ -1,4 +1,4 @@
-import profileImg from "../img/profile-image.jpg";
+import profileImg from "../img/profile-image.jpeg";
 
 function Header() {
   return (
