@@ -123,6 +123,7 @@ npm start
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [Scrimba: Learn React for Free](https://scrimba.com/learn/learnreact)
 - [Figma Design File](https://www.figma.com/file/beqxONeMYVVnCUdBu9IkeA/Digital-Business-Card-(Copy)?node-id=0%3A1)
+- [Background Image Source](https://www.freepik.com/free-vector/abstract-colorful-small-triangle-pattern-banner-design_8776748.htm#query=repeat%20pattern&position=3&from_view=keyword)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
