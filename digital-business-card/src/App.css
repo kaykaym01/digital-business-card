@@ -24,6 +24,7 @@ img {
   height: 100%;
 }
 
+/**Card**/
 .card {
   display: flex;
   flex-direction: column;
@@ -37,6 +38,7 @@ img {
   overflow: hidden;
 }
 
+/**Header**/
 .header {
   text-align: center;
 }
@@ -79,4 +81,17 @@ img {
 #linkedin-link {
   background-color: #5093E2;
   color: white;
+}
+
+/**Main**/
+.main-section {
+  margin: 10px;
+}
+.main-sub-header{
+  font-size: 1rem;
+}
+
+.main-text{
+  font-size: 0.75rem;
+  line-height: 1.25;;
 }
