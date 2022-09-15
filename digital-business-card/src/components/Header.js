@@ -1,13 +1,9 @@
-import profileImg from "../img/profile-image.jpeg";
 import mailIcon from "../img/Mail.png";
 import linkedinIcon from "../img/linkedin.png";
 
 function Header() {
   return (
     <header className="header">
-      <div className="header-img">
-        <img src={profileImg} alt="Kayla Moore" className="profile-img"></img>
-      </div>
       <div className="header-text">
         <h1 className="name">Kayla Moore</h1>
         <p className="role">Frontend Developer</p>
