@@ -31,11 +31,20 @@ img {
   align-items: center;
   justify-content: center;
   border-radius: 10px;
-  background-color: #1A1B21;
-  color: white;
 
   max-width: 300px;
   overflow: hidden;
+}
+
+.profile-img {
+  height: 100%;
+}
+
+/**Content**/
+.content {
+  padding: 10px 20px;
+  background-color: #1A1B21;
+  color: white;
 }
 
 /**Header**/
@@ -79,11 +88,6 @@ img {
   color: white;
 }
 
-/**Content**/
-.content {
-  margin: 10px 20px;
-}
-
 /**Main**/
 .main-section {
   margin: 10px;
@@ -93,6 +97,6 @@ img {
 }
 
 .main-text{
-  font-size: 0.75rem;
+  font-size: 0.70rem;
   line-height: 1.25;;
 }
