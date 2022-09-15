@@ -1,15 +1,11 @@
 import ProfileImage from "./ProfileImage";
-import Header from "./Header";
-import Main from "./Main";
-import Footer from "./Footer";
+import Content from "./Content";
 
 function Card() {
   return (
     <div className="card">
       <ProfileImage />
-      <Header />
-      <Main />
-      <Footer />
+      <Content />
     </div>
   );
 }
