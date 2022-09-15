@@ -41,8 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-<h3 align="center">Digital Business Card</h3>
+### [Live Site](https://kaykaym01.github.io/digital-business-card/)
 
 <p align="center">
     <img src="./site-screenshot.png" height="425px" width="500px"/>
@@ -123,6 +122,7 @@ npm start
 
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [Scrimba: Learn React for Free](https://scrimba.com/learn/learnreact)
+- [Figma Design File](https://www.figma.com/file/beqxONeMYVVnCUdBu9IkeA/Digital-Business-Card-(Copy)?node-id=0%3A1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
