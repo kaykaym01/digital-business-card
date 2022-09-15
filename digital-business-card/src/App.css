@@ -105,7 +105,7 @@ img {
 
 .footer {
   display: flex;
-  background-color: black;
+  background-color: rgb(19, 22, 27);
   width: 100%;
   justify-content: center;
   padding: 10px;
