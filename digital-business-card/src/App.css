@@ -43,10 +43,6 @@ img {
   text-align: center;
 }
 
-.header-text {
-  margin-top: 20px;
-}
-
 .name {
   font-size: 1.75rem;
 }
@@ -58,15 +54,15 @@ img {
 
 .header-links {
   font-size: 0.8rem;
-  margin: 10px;
   display: flex;
   justify-content: center;
+  margin-top: 5px;
 }
 
 .contact-link {
-  padding: 10px 20px;
-  border-radius: 10px;
-  margin: 0px 10px;
+  padding: 8px 20px;
+  border-radius: 6px;
+  margin: 5px 10px;
   font-weight: 500;
   text-decoration: none;
   display: flex;
@@ -81,6 +77,11 @@ img {
 #linkedin-link {
   background-color: #5093E2;
   color: white;
+}
+
+/**Content**/
+.content {
+  margin: 10px 20px;
 }
 
 /**Main**/
