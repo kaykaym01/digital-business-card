@@ -1,10 +1,10 @@
 import './App.css';
-import Card from "./components/Card";
+import CardWrapper from "./components/CardWrapper";
 
 function App() {
   return (
     <div className="App">
-     <Card />
+     <CardWrapper />
     </div>
   );
 }

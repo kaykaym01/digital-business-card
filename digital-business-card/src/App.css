@@ -26,6 +26,12 @@ img {
   height: 100%;
 }
 
+.card-wrapper {
+  background-color: #0a0419;
+  padding: 20px;
+  box-shadow: rgb(10, 10, 10) 0px 7px 29px 0px;
+}
+
 /**Card**/
 .card {
   display: flex;
