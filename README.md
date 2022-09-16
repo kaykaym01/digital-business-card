@@ -48,7 +48,7 @@
 </p>
 
 <p>
-    Digital Business Card built with HTML, CSS, JavaScript, & React. Business card includes About section, Interests section, Email link, LinkedIn link, and GitHub link. <br>
+    Digital Business Card built with HTML, CSS, JavaScript, & ReactJS. Business card includes About section, Interests section, Email link, LinkedIn link, and GitHub link. <br>
     See <a href="https://www.figma.com/file/beqxONeMYVVnCUdBu9IkeA/Digital-Business-Card-(Copy)?node-id=0%3A1">Figma Design File</a> for design reference.
 </p>
 
